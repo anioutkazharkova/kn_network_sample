@@ -1,12 +1,12 @@
-package com.azharkova.news.adapter
+package com.azharkova.kn_network_sample.android.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
-import com.azharkova.kmm_threads_sample.android.R
-import com.azharkova.news.data.NewsItem
-import com.azharkova.news.util.loadImage
+import com.azharkova.kn_network_sample.android.R
+import com.azharkova.kn_network_sample.android.util.loadImage
+import com.azharkova.kn_network_sample.data.NewsItem
 
 class NewsItemHolder(inflater: LayoutInflater,
                               container: ViewGroup

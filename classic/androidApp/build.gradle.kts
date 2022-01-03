@@ -6,7 +6,7 @@ plugins {
 android {
     compileSdk = 31
     defaultConfig {
-        applicationId = "com.azharkova.kmm_threads_sample.android"
+        applicationId = "com.azharkova.kn_network_sample.android"
         minSdk = 21
         targetSdk = 31
         versionCode = 1

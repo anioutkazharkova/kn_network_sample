@@ -1,9 +1,9 @@
-package com.azharkova.news.adapter
+package com.azharkova.kn_network_sample.android.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.azharkova.news.data.NewsItem
+import com.azharkova.kn_network_sample.data.NewsItem
 
 
 class NewsAdapter: RecyclerView.Adapter<NewsItemHolder>() {

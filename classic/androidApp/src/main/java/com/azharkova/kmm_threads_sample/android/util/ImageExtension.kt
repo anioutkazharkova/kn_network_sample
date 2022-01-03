@@ -1,4 +1,4 @@
-package com.azharkova.news.util
+package com.azharkova.kn_network_sample.android.util
 
 import android.widget.ImageView
 import com.squareup.picasso.Picasso

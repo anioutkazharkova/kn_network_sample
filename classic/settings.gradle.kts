@@ -6,6 +6,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "kmm_threads_sample"
+rootProject.name = "kn_network_sample"
 include(":androidApp")
 include(":shared")
