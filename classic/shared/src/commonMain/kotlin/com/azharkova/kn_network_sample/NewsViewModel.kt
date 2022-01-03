@@ -1,9 +1,7 @@
-package com.azharkova.kmm_concurrency_sample
+package com.azharkova.kn_network_sample
 
-import com.azharkova.news.data.NewsItem
-import com.azharkova.news.data.NewsList
-import com.azharkova.newsapp.DI
-import com.azharkova.newsapp.service.NewsService
+import com.azharkova.kn_network_sample.threads.uiDispatcher
+import com.azharkova.kn_network_sample.data.NewsList
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.SupervisorJob
 import kotlinx.coroutines.flow.MutableStateFlow

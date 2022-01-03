@@ -1,4 +1,4 @@
-package com.azharkova.news.data
+package com.azharkova.kn_network_sample.data
 
 import kotlinx.serialization.Serializable
 

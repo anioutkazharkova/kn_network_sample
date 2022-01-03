@@ -1,7 +1,7 @@
-package com.azharkova.newsapp
+package com.azharkova.kn_network_sample
 
-import com.azharkova.kmm_concurrency_sample.HttpClient
-import com.azharkova.newsapp.service.NewsService
+
+import com.azharkova.kmm_network.HttpClient
 import kotlin.native.concurrent.ThreadLocal
 
 class DI {
