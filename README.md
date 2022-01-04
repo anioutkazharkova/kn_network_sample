@@ -1,2 +1,5 @@
-# kn_network_sample
-Sample repository for Kotlin native networking and common iOS processing
+# Kotlin native network sample 
+Sample app for Kotlin native networking and common iOS processing.
+Using https://github.com/anioutkazharkova/kotlin_native_network_client library
+
+
